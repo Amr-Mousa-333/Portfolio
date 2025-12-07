@@ -11,7 +11,7 @@ function closeMenu() {
 
 document.addEventListener("DOMContentLoaded", function () {
   const textElement = document.getElementById("typing-text");
-  const texts = [" ","Flutter Developer", "Software Engineer"];
+  const texts = [" ","Frontend Developer", "Software Engineer"];
   let textIndex = 0;
   let charIndex = 0;
 
